@@ -1,6 +1,6 @@
 # A docker image for PM2 and Keymetrics
 
-This is a very simple docker image with pm2, the process manager, and keymetrics, the monitoring solution, installed.
+This is a very simple docker image with PM2, the process manager, and Keymetrics, the monitoring solution, installed.
 
 The image will use `/app` folder as the place for the source code and the working directory, so you should provide your app as a volume, i.e;
 
