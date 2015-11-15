@@ -21,5 +21,5 @@ docker run -dt \
     -e "SECRET_ID=YOUR_SECRET_ID_FROM_KEYMETRICS" \
     -e "PUBLIC_ID=YOUR_PUBLIC_ID_FROM_KEYMETRICS" \
     -v /path/to/app/source:/app \
-    dashersw/docker-node-pm2-keymetrics
+    dashersw/node-pm2-keymetrics
 ```
